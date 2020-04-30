@@ -1,3 +1,3 @@
 # InsiderAssignment
 Solutions susbmission for the assignment. Each file corresponds to the solution for each problem.
-Initial Assignment can be found under the name QA Assignment1
+For assignment questions refer to QA Assignment1
